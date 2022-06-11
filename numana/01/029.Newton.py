@@ -15,7 +15,7 @@ x=1
 eps = 1.0e-6
 n = 0
 
-print("学籍番号:1203033123 西田裕一")
+print("学籍番号 西田裕一")
 
 while True:
   print("{0:2d} {1:.15f}".format(n,x))
